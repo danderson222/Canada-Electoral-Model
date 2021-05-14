@@ -1,0 +1,677 @@
+"district.number","district.name","province","year","WinningParty","LiberalVotes","ConservativeVotes","NDPVotes","BlocVotes","GreenVotes","PeoplesVotes","IndependentVotes","votes"
+10001,"Avalon","NL","2015","Liberal",23528,4670,6075,0,228,0,0,42086
+10002,"Bonavista--Burin--Trinity","NL","2015","Liberal",28704,3534,2557,0,297,0,0,35092
+10003,"Coast of Bays--Central--Notre Dame","NL","2015","Liberal",26523,6479,2175,0,271,0,0,35448
+10004,"Labrador","NL","2015","Liberal",8878,1716,1779,0,0,0,0,12373
+10005,"Long Range Mountains","NL","2015","Liberal",30889,5085,4739,0,1111,0,0,41824
+10006,"St. John's East","NL","2015","Liberal",20974,2938,20328,0,500,0,0,44880
+10007,"St. John's South--Mount Pearl","NL","2015","Liberal",25922,2047,16467,0,365,0,0,44801
+11001,"Cardigan","PEI","2015","Liberal",14621,3632,2503,0,1434,0,0,22485
+11002,"Charlottetown","PEI","2015","Liberal",11910,3136,4897,0,1222,0,0,21165
+11003,"Egmont","PEI","2015","Liberal",10521,6185,4097,0,559,0,0,21362
+11004,"Malpeque","PEI","2015","Liberal",13950,3947,2509,0,2066,0,0,22472
+12001,"Cape Breton--Canso","NS","2015","Liberal",32163,6246,3547,0,1281,0,0,43237
+12002,"Central Nova","NS","2015","Liberal",25909,11418,4532,0,1834,0,570,44263
+12003,"Cumberland--Colchester","NS","2015","Liberal",29527,12257,2647,0,1650,0,251,46332
+12004,"Dartmouth--Cole Harbour","NS","2015","Liberal",30407,7331,12757,0,1775,0,0,52270
+12005,"Halifax","NS","2015","Liberal",27431,4564,19162,0,1745,0,0,53032
+12006,"Halifax West","NS","2015","Liberal",34377,7837,5894,0,1971,0,0,50079
+12007,"Kings--Hants","NS","2015","Liberal",33026,8677,2998,0,1569,0,232,46686
+12008,"Sackville--Preston--Chezzetcook","NS","2015","Liberal",23161,7186,16613,0,1341,0,0,48301
+12009,"South Shore--St. Margarets","NS","2015","Liberal",30045,11905,8883,0,1534,0,257,52775
+12010,"Sydney--Victoria","NS","2015","Liberal",29995,4360,5351,0,1026,0,0,40974
+12011,"West Nova","NS","2015","Liberal",28775,11916,3084,0,1904,0,0,45679
+13001,"Acadie--Bathurst","NB","2015","Liberal",25845,3852,20079,0,1187,0,0,50963
+13002,"Beauséjour","NB","2015","Liberal",36534,6017,8009,0,2376,0,0,52936
+13003,"Fredericton","NB","2015","Liberal",23016,13280,4622,0,5804,0,0,46722
+13004,"Fundy Royal","NB","2015","Liberal",19136,17361,8204,0,1823,0,296,46820
+13005,"Madawaska--Restigouche","NB","2015","Liberal",20778,6151,9670,0,707,0,0,37306
+13006,"Miramichi--Grand Lake","NB","2015","Liberal",17202,12476,5588,0,1098,0,0,36364
+13007,"Moncton--Riverview--Dieppe","NB","2015","Liberal",30054,11168,8420,0,2399,0,0,52041
+13008,"New Brunswick Southwest","NB","2015","Liberal",16656,14625,4768,0,1877,0,0,37926
+13009,"Saint John--Rothesay","NB","2015","Liberal",20634,12915,7411,0,1321,0,0,42281
+13010,"Tobique--Mactaquac","NB","2015","Liberal",17909,14225,4334,0,1959,0,0,38427
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","QB","2015","NDP",11094,3211,12778,6398,779,0,0,34518
+24002,"Abitibi--Témiscamingue","QB","2015","NDP",14733,3425,20636,9651,859,0,0,49729
+24003,"Ahuntsic-Cartierville","QB","2015","Liberal",26026,4051,16684,7346,1175,0,0,55567
+24004,"Alfred-Pellan","QB","2015","Liberal",24557,6259,13225,9836,1089,0,203,55169
+24005,"Argenteuil--La Petite-Nation","QB","2015","Liberal",22093,5680,12650,9525,1118,0,0,51066
+24006,"Avignon--La Mitis--Matane--Matapédia","QB","2015","Liberal",14378,2228,7340,7641,365,0,0,36356
+24007,"Beauce","QB","2015","Conservative",12442,32910,5443,4144,943,0,0,55882
+24008,"Beauport--Limoilou","QB","2015","Conservative",12854,15461,12881,7467,1220,0,0,50558
+24009,"Bécancour--Nicolet--Saurel","QB","2015","Bloc",12666,5955,11531,20871,1182,0,0,52205
+24010,"Bellechasse--Les Etchemins--Lévis","QB","2015","Conservative",12961,31872,8516,7217,2032,0,0,62598
+24011,"Beloeil--Chambly","QB","2015","NDP",19494,6173,20641,18387,1498,0,0,66438
+24012,"Berthier--Maskinongé","QB","2015","NDP",11032,5548,22942,14037,847,0,0,54406
+24013,"Thérèse-De Blainville","QB","2015","Liberal",18281,7000,14022,15238,1352,0,0,56248
+24014,"Pierre-Boucher--Les Patriotes--Verchères","QB","2015","Bloc",16794,6079,14454,17007,5056,0,0,59390
+24015,"Bourassa","QB","2015","Liberal",22234,3819,6144,7049,886,0,669,41129
+24016,"Brome--Missisquoi","QB","2015","Liberal",25744,6724,14383,10252,1377,0,0,58675
+24017,"Brossard--Saint-Lambert","QB","2015","Liberal",28818,7215,14075,6071,1081,0,0,57260
+24018,"Rimouski-Neigette--Témiscouata--Les Basques","QB","2015","NDP",12594,3363,19374,8673,669,0,0,44946
+24019,"Charlesbourg--Haute-Saint-Charles","QB","2015","Conservative",13525,24608,11690,7177,1256,0,0,58256
+24020,"Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix","QB","2015","Conservative",13556,16903,9306,9650,859,0,0,50456
+24021,"Châteauguay--Lacolle","QB","2015","Liberal",20245,5805,11986,12615,982,0,0,51782
+24022,"Chicoutimi--Le Fjord","QB","2015","Liberal",13619,7270,13019,8990,907,0,0,43805
+24023,"Compton--Stanstead","QB","2015","Liberal",20582,6978,15300,11551,1085,0,0,55811
+24024,"Dorval--Lachine--LaSalle","QB","2015","Liberal",29974,6049,11769,5338,1245,0,230,54605
+24025,"Drummond","QB","2015","NDP",13793,9221,15833,11862,1270,0,0,51979
+24026,"Gaspésie--Les Îles-de-la-Madeleine","QB","2015","Liberal",15345,2398,12885,8289,400,0,0,39617
+24027,"Gatineau","QB","2015","Liberal",31076,4733,15352,5455,942,0,148,57800
+24028,"Hochelaga","QB","2015","NDP",15534,3555,16034,14389,1654,0,0,51904
+24029,"Honoré-Mercier","QB","2015","Liberal",29211,6226,8478,6680,814,0,0,51658
+24030,"Hull--Aylmer","QB","2015","Liberal",28478,4278,17472,3625,1035,0,160,55440
+24031,"Joliette","QB","2015","Bloc",15995,5705,14566,18875,1335,0,0,56689
+24032,"Jonquière","QB","2015","NDP",13700,8124,14039,11202,656,0,0,48103
+24033,"La Pointe-de-l'Île","QB","2015","Bloc",15777,4408,14777,18545,1130,0,0,55226
+24034,"La Prairie","QB","2015","Liberal",20993,6859,13174,15107,1235,0,0,57572
+24035,"Lac-Saint-Jean","QB","2015","Conservative",10193,18393,15735,10152,806,0,0,55279
+24036,"Lac-Saint-Louis","QB","2015","Liberal",39965,10857,7997,1681,1812,0,0,62312
+24037,"LaSalle--Émard--Verdun","QB","2015","Liberal",23603,3713,15566,9164,1717,0,0,53763
+24038,"Laurentides--Labelle","QB","2015","Liberal",20277,6209,16644,18792,1251,0,0,63173
+24039,"Laurier--Sainte-Marie","QB","2015","NDP",12938,2242,20929,15699,1904,0,160,54681
+24040,"Laval--Les Îles","QB","2015","Liberal",25857,9811,10710,6731,921,0,0,54205
+24041,"Longueuil--Charles-LeMoyne","QB","2015","Liberal",18301,4961,12468,13974,1510,0,0,51707
+24042,"Lévis--Lotbinière","QB","2015","Conservative",13562,31357,9246,7163,1124,0,0,62588
+24043,"Longueuil--Saint-Hubert","QB","2015","NDP",17468,5087,18171,15873,1447,0,0,58199
+24044,"Louis-Hébert","QB","2015","Liberal",21516,16789,12850,8900,1561,0,0,61744
+24045,"Louis-Saint-Laurent","QB","2015","Conservative",13852,32637,10296,6688,1210,0,0,64683
+24046,"Manicouagan","QB","2015","Bloc",12343,4317,7359,17338,673,0,0,42030
+24047,"Mégantic--L'Érable","QB","2015","Conservative",13308,16749,10386,5838,1006,0,0,47287
+24048,"Mirabel","QB","2015","Bloc",15514,6020,17873,18710,1301,0,0,59418
+24049,"Montarville","QB","2015","Liberal",18848,6284,14296,16460,1388,0,0,57917
+24050,"Montcalm","QB","2015","Bloc",14484,5093,12431,19405,976,0,0,53009
+24051,"Montmagny--L'Islet--Kamouraska--Rivière-du-Loup","QB","2015","Conservative",14002,14274,11918,7939,823,0,0,49243
+24052,"Mount Royal","QB","2015","Liberal",24187,18201,3884,908,747,0,0,48051
+24053,"Notre-Dame-de-Grâce--Westmount","QB","2015","Liberal",29755,7414,11229,1282,1581,0,151,51593
+24054,"Outremont","QB","2015","NDP",14597,4159,19242,3668,1575,0,0,43619
+24055,"Papineau","QB","2015","Liberal",26391,2390,13132,6182,1443,0,664,50770
+24056,"Pierrefonds--Dollard","QB","2015","Liberal",34319,11694,9584,2043,865,0,0,58505
+24057,"Pontiac","QB","2015","Liberal",34154,8716,14090,4337,1089,0,0,62625
+24058,"Portneuf--Jacques-Cartier","QB","2015","Conservative",13322,27290,13686,6665,1096,0,0,62059
+24059,"Québec","QB","2015","Liberal",15566,11737,14566,10153,1570,0,0,53867
+24060,"Repentigny","QB","2015","Bloc",17798,7053,15167,22618,1242,0,0,65211
+24061,"Richmond--Arthabaska","QB","2015","Conservative",14463,18505,14213,10068,984,0,0,58617
+24062,"Rivière-des-Mille-Îles","QB","2015","Liberal",18787,6099,17111,14755,1136,0,158,58046
+24063,"Rivière-du-Nord","QB","2015","Bloc",14933,4793,17077,18157,1436,0,0,56657
+24064,"Rosemont--La Petite-Patrie","QB","2015","NDP",12068,2510,28672,12283,1783,0,0,58335
+24065,"Marc-Aurèle-Fortin","QB","2015","Liberal",22323,6498,12827,11820,1057,0,0,54525
+24066,"Saint-Hyacinthe--Bagot","QB","2015","NDP",14980,9098,15578,13200,1243,0,270,54369
+24067,"Saint-Jean","QB","2015","Liberal",20022,6549,17555,14979,1281,0,0,60386
+24068,"Saint-Laurent","QB","2015","Liberal",24832,7867,4646,1879,977,0,0,40330
+24069,"Saint-Léonard--Saint-Michel","QB","2015","Liberal",28826,4957,6611,3204,805,0,0,44531
+24070,"Saint-Maurice--Champlain","QB","2015","Liberal",24475,9592,12245,11295,1144,0,0,58947
+24071,"Salaberry--Suroît","QB","2015","NDP",17955,6132,18726,17452,867,0,219,61535
+24072,"Shefford","QB","2015","Liberal",22957,7529,13945,13092,1397,0,0,58920
+24073,"Sherbrooke","QB","2015","NDP",17071,5391,21410,11717,1143,0,303,57300
+24074,"Vaudreuil--Soulanges","QB","2015","Liberal",30550,9048,14627,9858,1445,0,0,65528
+24075,"Terrebonne","QB","2015","Bloc",16316,6615,14928,19238,1016,0,0,58284
+24076,"Trois-Rivières","QB","2015","NDP",18224,11231,19193,10249,1032,0,0,60289
+24077,"Ville-Marie--Le Sud-Ouest--Île-des-Soeurs","QB","2015","Liberal",25491,5948,11757,4307,2398,0,0,50164
+24078,"Vimy","QB","2015","Liberal",25082,7262,11391,9068,1280,0,0,54343
+35001,"Ajax","ON","2015","Liberal",31458,19374,4630,0,788,0,0,56307
+35002,"Algoma--Manitoulin--Kapuskasing","ON","2015","NDP",14111,9820,16516,0,927,0,0,41374
+35003,"Aurora--Oak Ridges--Richmond Hill","ON","2015","Liberal",24132,23039,2912,0,654,0,0,50980
+35004,"Barrie--Innisfil","ON","2015","Conservative",18308,22901,5812,0,1991,0,0,49341
+35005,"Barrie--Springwater--Oro-Medonte","ON","2015","Conservative",21005,21091,5202,0,2648,0,188,50535
+35006,"Bay of Quinte","ON","2015","Liberal",29281,19781,7001,0,1278,0,372,57713
+35007,"Beaches--East York","ON","2015","Liberal",27458,9124,17113,0,1433,0,297,55530
+35008,"Brampton Centre","ON","2015","Liberal",19277,13345,5993,0,844,0,0,39632
+35009,"Brampton East","ON","2015","Liberal",23652,10642,10400,0,512,0,0,45206
+35010,"Brampton North","ON","2015","Liberal",23297,15888,7946,0,915,0,0,48166
+35011,"Brampton South","ON","2015","Liberal",23681,15929,4843,0,1011,0,0,45464
+35012,"Brampton West","ON","2015","Liberal",24256,13068,5400,0,674,0,0,43398
+35013,"Brantford--Brant","ON","2015","Conservative",19422,25874,15715,0,1582,0,164,63272
+35014,"Bruce--Grey--Owen Sound","ON","2015","Conservative",21879,26297,6270,0,1887,0,0,56333
+35015,"Burlington","ON","2015","Liberal",32229,29780,6381,0,1710,0,0,70100
+35016,"Cambridge","ON","2015","Liberal",23024,20613,7397,0,1723,0,474,53339
+35017,"Chatham-Kent--Leamington","ON","2015","Conservative",19351,21677,9549,0,1394,0,0,51971
+35018,"Davenport","ON","2015","Liberal",21947,5233,20506,0,1530,0,107,49584
+35019,"Don Valley East","ON","2015","Liberal",24048,12155,4307,0,1078,0,0,41588
+35020,"Don Valley North","ON","2015","Liberal",23494,17279,3896,0,1018,0,0,45687
+35021,"Don Valley West","ON","2015","Liberal",27472,19206,3076,0,848,0,75,51086
+35022,"Dufferin--Caledon","ON","2015","Conservative",23643,27977,4398,0,4433,0,0,60451
+35023,"Durham","ON","2015","Conservative",22949,28967,10289,0,1616,0,0,64185
+35024,"Eglinton--Lawrence","ON","2015","Liberal",27278,23788,3505,0,799,0,0,55792
+35025,"Elgin--Middlesex--London","ON","2015","Conservative",17642,28023,8771,0,1783,0,0,56933
+35026,"Essex","ON","2015","NDP",12639,21602,25072,0,1141,0,0,60531
+35027,"Etobicoke Centre","ON","2015","Liberal",32612,23070,4886,0,856,0,0,61802
+35028,"Etobicoke--Lakeshore","ON","2015","Liberal",34638,20932,7030,0,1507,0,0,64508
+35029,"Etobicoke North","ON","2015","Liberal",26251,9673,5220,0,524,0,0,42064
+35030,"Flamborough--Glanbrook","ON","2015","Conservative",21728,24137,7779,0,1866,0,0,55510
+35031,"Glengarry--Prescott--Russell","ON","2015","Liberal",34189,23367,5087,0,1153,0,0,64173
+35032,"Guelph","ON","2015","Liberal",34303,18407,8392,0,7909,0,0,69868
+35033,"Haldimand--Norfolk","ON","2015","Conservative",20487,24714,7625,0,1857,0,423,55990
+35034,"Haliburton--Kawartha Lakes--Brock","ON","2015","Conservative",19634,27718,12012,0,2470,0,0,61834
+35035,"Hamilton Centre","ON","2015","NDP",13718,6018,18719,0,1778,0,186,41083
+35036,"Hamilton East--Stoney Creek","ON","2015","Liberal",19622,12715,16465,0,1305,0,0,50332
+35037,"Hamilton Mountain","ON","2015","NDP",16933,12991,18146,0,1283,0,0,50554
+35038,"Hamilton West--Ancaster--Dundas","ON","2015","Liberal",29694,19821,10131,0,2633,0,0,62279
+35039,"Hastings--Lennox and Addington","ON","2015","Liberal",21104,20879,6348,0,1466,0,0,49797
+35040,"Huron--Bruce","ON","2015","Conservative",23129,26174,7544,0,1398,0,0,58245
+35041,"Kanata--Carleton","ON","2015","Liberal",32477,24829,4313,0,1704,0,0,63323
+35042,"Kenora","ON","2015","Liberal",10918,8751,10420,0,501,0,162,30752
+35043,"King--Vaughan","ON","2015","Liberal",25908,24170,3571,0,1037,0,0,54686
+35044,"Kingston and the Islands","ON","2015","Liberal",36421,14928,11185,0,2933,0,0,65772
+35045,"Kitchener Centre","ON","2015","Liberal",25504,15872,8680,0,1597,0,0,52280
+35046,"Kitchener--Conestoga","ON","2015","Conservative",20398,20649,4653,0,1314,0,0,47699
+35047,"Kitchener South--Hespeler","ON","2015","Liberal",20215,17544,7440,0,1767,0,0,47829
+35048,"Lambton--Kent--Middlesex","ON","2015","Conservative",16592,28300,9598,0,1873,0,0,56363
+35049,"Lanark--Frontenac--Kingston","ON","2015","Conservative",19325,27399,8073,0,2025,0,0,57240
+35050,"Leeds-Grenville-Thousand Islands and Rideau Lakes","ON","2015","Conservative",22888,26738,4722,0,2088,0,0,56436
+35051,"London--Fanshawe","ON","2015","NDP",17214,14891,20684,0,1604,0,352,54745
+35052,"London North Centre","ON","2015","Liberal",32427,19990,9423,0,2286,0,0,64271
+35053,"London West","ON","2015","Liberal",31167,24036,10087,0,1918,0,0,68027
+35054,"Markham--Stouffville","ON","2015","Liberal",29416,25565,3647,0,1145,0,0,59773
+35055,"Markham--Thornhill","ON","2015","Liberal",23878,13849,4595,0,535,0,0,42857
+35056,"Markham--Unionville","ON","2015","Conservative",21596,24605,2528,0,1110,0,0,49839
+35057,"Milton","ON","2015","Conservative",19940,22378,5366,0,1131,0,0,49308
+35058,"Mississauga Centre","ON","2015","Liberal",28372,17431,4920,0,1129,0,0,51852
+35059,"Mississauga East--Cooksville","ON","2015","Liberal",28154,18353,4481,0,766,0,0,51917
+35060,"Mississauga--Erin Mills","ON","2015","Liberal",27520,21716,5206,0,905,0,0,55347
+35061,"Mississauga--Lakeshore","ON","2015","Liberal",28279,24435,4735,0,1397,0,0,59273
+35062,"Mississauga--Malton","ON","2015","Liberal",26165,11701,5450,0,737,0,203,44256
+35063,"Mississauga--Streetsville","ON","2015","Liberal",26792,22621,5040,0,1293,0,0,55999
+35064,"Nepean","ON","2015","Liberal",34017,23442,5324,0,1513,0,551,64888
+35065,"Newmarket--Aurora","ON","2015","Liberal",25508,24057,4806,0,1331,0,0,56464
+35066,"Niagara Centre","ON","2015","Liberal",19513,16248,17218,0,1316,0,0,54682
+35067,"Niagara Falls","ON","2015","Conservative",22318,27235,13525,0,1633,0,0,64711
+35068,"Niagara West","ON","2015","Conservative",16581,24732,5802,0,1511,0,0,50657
+35069,"Nickel Belt","ON","2015","Liberal",21021,8221,18556,0,1217,0,0,49113
+35070,"Nipissing--Timiskaming","ON","2015","Liberal",25357,14325,7936,0,1257,0,0,48875
+35071,"Northumberland--Peterborough South","ON","2015","Liberal",27043,25165,9411,0,1990,0,0,63609
+35072,"Oakville","ON","2015","Liberal",31956,27497,3830,0,1420,0,0,64703
+35073,"Oakville North--Burlington","ON","2015","Liberal",28415,26342,4405,0,968,0,0,60796
+35074,"Oshawa","ON","2015","Conservative",16588,23162,19339,0,1522,0,0,60686
+35075,"Ottawa Centre","ON","2015","Liberal",32211,10943,29098,0,2246,0,0,75500
+35076,"Orléans","ON","2015","Liberal",46542,23821,6215,0,1410,0,0,77988
+35077,"Ottawa South","ON","2015","Liberal",38831,15711,7480,0,1888,0,0,64649
+35078,"Ottawa--Vanier","ON","2015","Liberal",36474,12109,12194,0,1947,0,0,63355
+35079,"Ottawa West--Nepean","ON","2015","Liberal",35199,18893,6195,0,1772,0,0,62913
+35080,"Oxford","ON","2015","Conservative",18299,25966,9406,0,2004,0,0,56850
+35081,"Parkdale--High Park","ON","2015","Liberal",24623,7641,23566,0,1743,0,93,58567
+35082,"Parry Sound--Muskoka","ON","2015","Conservative",19937,22206,5183,0,3704,0,0,51279
+35083,"Perth--Wellington","ON","2015","Conservative",19480,22255,7756,0,1347,0,0,51851
+35084,"Peterborough--Kawartha","ON","2015","Liberal",29159,23335,12437,0,1480,0,0,66542
+35085,"Pickering--Uxbridge","ON","2015","Liberal",29757,22591,5446,0,1365,0,0,59159
+35086,"Renfrew--Nipissing--Pembroke","ON","2015","Conservative",18666,26195,4893,0,1105,0,6300,57159
+35087,"Richmond Hill","ON","2015","Liberal",23032,21275,3950,0,856,0,0,49113
+35088,"Carleton","ON","2015","Conservative",25913,27762,3632,0,1932,0,0,59239
+35089,"St. Catharines","ON","2015","Liberal",24870,21637,9511,0,1488,0,0,57591
+35090,"Toronto--St. Paul's","ON","2015","Liberal",31481,15376,8386,0,1729,0,0,56972
+35091,"Sarnia--Lambton","ON","2015","Conservative",15853,22565,18102,0,1605,0,0,58125
+35092,"Sault Ste. Marie","ON","2015","Liberal",19582,13615,9543,0,934,0,0,43757
+35093,"Scarborough--Agincourt","ON","2015","Liberal",21587,15802,3263,0,570,0,0,41556
+35094,"Scarborough Centre","ON","2015","Liberal",22753,14705,5227,0,960,0,0,45029
+35095,"Scarborough--Guildwood","ON","2015","Liberal",25167,11108,4720,0,606,0,175,41917
+35096,"Scarborough North","ON","2015","Liberal",18904,10737,8648,0,579,0,320,39188
+35097,"Scarborough--Rouge Park","ON","2015","Liberal",29913,13587,5145,0,1010,0,0,49655
+35098,"Scarborough Southwest","ON","2015","Liberal",25586,10347,11574,0,1259,0,0,48766
+35099,"Simcoe--Grey","ON","2015","Conservative",25352,30612,6332,0,2923,0,0,65747
+35100,"Simcoe North","ON","2015","Conservative",22718,24836,6037,0,2543,0,0,57071
+35101,"Spadina--Fort York","ON","2015","Liberal",30141,8673,15047,0,1137,0,0,55148
+35102,"Stormont--Dundas--South Glengarry","ON","2015","Conservative",20452,27091,4332,0,1191,0,0,53066
+35103,"Sudbury","ON","2015","Liberal",23534,10473,13793,0,1509,0,218,49629
+35104,"Thornhill","ON","2015","Conservative",18395,31911,2814,0,627,0,0,54491
+35105,"Thunder Bay--Rainy River","ON","2015","Liberal",18523,8876,12483,0,2201,0,0,42083
+35106,"Thunder Bay--Superior North","ON","2015","Liberal",20069,7775,10339,0,6155,0,270,44608
+35107,"Timmins--James Bay","ON","2015","NDP",12940,7605,15974,0,752,0,0,37271
+35108,"Toronto Centre","ON","2015","Liberal",29297,6167,13467,0,1315,0,147,50602
+35109,"Toronto--Danforth","ON","2015","Liberal",23531,5478,22325,0,2618,0,0,55581
+35110,"University--Rosedale","ON","2015","Liberal",27849,9790,15988,0,1641,0,0,55925
+35111,"Vaughan--Woodbridge","ON","2015","Liberal",23041,20746,2198,0,597,0,0,47298
+35112,"Waterloo","ON","2015","Liberal",29752,19318,8928,0,1713,0,0,59849
+35113,"Wellington--Halton Hills","ON","2015","Conservative",23279,32482,5321,0,2547,0,0,63812
+35114,"Whitby","ON","2015","Liberal",29003,27154,6677,0,1403,0,279,64516
+35115,"Willowdale","ON","2015","Liberal",24519,16990,3203,0,1025,0,216,45953
+35116,"Windsor--Tecumseh","ON","2015","NDP",14177,14656,23215,0,1047,0,0,53344
+35117,"Windsor West","ON","2015","NDP",11842,9734,24085,0,1083,0,0,46905
+35118,"York Centre","ON","2015","Liberal",20131,18893,3148,0,772,0,0,42944
+35119,"York--Simcoe","ON","2015","Conservative",18083,24058,4255,0,1483,0,0,47879
+35120,"York South--Weston","ON","2015","Liberal",20093,8399,13281,0,892,0,0,43706
+35121,"Humber River--Black Creek","ON","2015","Liberal",23995,7228,3851,0,584,0,0,35859
+46001,"Brandon--Souris","MB","2015","Conservative",15338,20666,2576,0,2526,0,0,41106
+46002,"Charleswood--St. James--Assiniboia--Headingley","MB","2015","Liberal",24531,18408,2842,0,1376,0,0,47157
+46003,"Churchill--Keewatinook Aski","MB","2015","NDP",12575,3090,13487,0,537,0,0,29944
+46004,"Dauphin--Swan River--Neepawa","MB","2015","Conservative",12276,19276,5097,0,1592,0,3357,41598
+46005,"Elmwood--Transcona","MB","2015","NDP",12713,14648,14709,0,1016,0,0,43086
+46006,"Kildonan--St. Paul","MB","2015","Liberal",18717,17478,6270,0,783,0,142,43875
+46007,"Portage--Lisgar","MB","2015","Conservative",10621,25060,2554,0,1637,0,0,41187
+46008,"Provencher","MB","2015","Conservative",15509,25086,2371,0,1779,0,0,44745
+46009,"Saint Boniface--Saint Vital","MB","2015","Liberal",28530,14005,5169,0,1119,0,0,48823
+46010,"Selkirk--Interlake--Eastman","MB","2015","Conservative",15508,25617,5649,0,1707,0,0,49363
+46011,"Winnipeg Centre","MB","2015","Liberal",18471,4189,9490,0,1379,0,0,33885
+46012,"Winnipeg North","MB","2015","Liberal",23402,5193,4543,0,826,0,0,33964
+46013,"Winnipeg South","MB","2015","Liberal",28096,16709,2404,0,990,0,0,48199
+46014,"Winnipeg South Centre","MB","2015","Liberal",31993,15102,4799,0,1677,0,0,53571
+47001,"Battlefords--Lloydminster","SK","2015","Conservative",5550,20547,5930,0,575,0,1076,33678
+47002,"Cypress Hills--Grasslands","SK","2015","Conservative",5381,25050,4783,0,993,0,0,36207
+47003,"Desnethé--Missinippi--Churchill River","SK","2015","NDP",10237,9105,10319,0,552,0,0,30213
+47004,"Carlton Trail--Eagle Creek","SK","2015","Conservative",5774,26004,7499,0,902,0,0,40179
+47005,"Moose Jaw--Lake Centre--Lanigan","SK","2015","Conservative",7545,23273,9978,0,961,0,0,41965
+47006,"Prince Albert","SK","2015","Conservative",7832,19673,11244,0,761,0,0,39510
+47007,"Regina--Lewvan","SK","2015","NDP",13143,16711,16843,0,839,0,0,47834
+47008,"Regina--Qu'Appelle","SK","2015","Conservative",8401,16486,11144,0,852,0,0,36883
+47009,"Regina--Wascana","SK","2015","Liberal",23552,12931,5362,0,878,0,0,42723
+47010,"Saskatoon--Grasswood","SK","2015","Conservative",12165,19166,13909,0,846,0,0,46086
+47011,"Saskatoon--University","SK","2015","Conservative",11287,18592,14115,0,686,0,0,44773
+47012,"Saskatoon West","SK","2015","NDP",9234,12401,14921,0,658,0,0,37715
+47013,"Souris--Moose Mountain","SK","2015","Conservative",5076,26315,5131,0,994,0,0,37516
+47014,"Yorkton--Melville","SK","2015","Conservative",6504,21683,7396,0,1030,0,0,36613
+48001,"Banff--Airdrie","AB","2015","Conservative",17380,42228,4521,0,2509,0,0,66638
+48002,"Battle River--Crowfoot","AB","2015","Conservative",5505,47552,3844,0,1868,0,0,58769
+48003,"Bow River","AB","2015","Conservative",6840,38701,2622,0,919,0,543,49988
+48004,"Calgary Centre","AB","2015","Liberal",28496,27746,3412,0,1347,0,248,61249
+48005,"Calgary Confederation","AB","2015","Conservative",29083,30669,4770,0,2146,0,0,66808
+48006,"Calgary Forest Lawn","AB","2015","Conservative",14762,19694,4006,0,1229,0,0,41047
+48007,"Calgary Heritage","AB","2015","Conservative",15172,37263,4255,0,1246,0,248,58430
+48008,"Calgary Midnapore","AB","2015","Conservative",14396,42415,4915,0,1691,0,0,63562
+48009,"Calgary Nose Hill","AB","2015","Conservative",14671,32760,4836,0,1384,0,0,54562
+48010,"Calgary Rocky Ridge","AB","2015","Conservative",20038,38229,3665,0,1360,0,0,63292
+48011,"Calgary Shepard","AB","2015","Conservative",16379,43706,4532,0,1734,0,0,66351
+48012,"Calgary Signal Hill","AB","2015","Conservative",19108,37858,3128,0,1586,0,0,62519
+48013,"Calgary Skyview","AB","2015","Liberal",20644,17885,3605,0,846,0,182,44993
+48014,"Edmonton Centre","AB","2015","Liberal",19902,18703,13084,0,1403,0,163,53512
+48015,"Edmonton Griesbach","AB","2015","Conservative",10397,19157,16309,0,1129,0,0,47942
+48016,"Edmonton Manning","AB","2015","Conservative",13509,22166,11582,0,1079,0,540,49001
+48017,"Edmonton Mill Woods","AB","2015","Liberal",20423,20331,6330,0,1096,0,560,49517
+48018,"Edmonton Riverbend","AB","2015","Conservative",17428,28805,9846,0,1275,0,0,57740
+48019,"Edmonton Strathcona","AB","2015","NDP",11524,17395,24446,0,1278,0,223,55604
+48020,"Edmonton West","AB","2015","Conservative",18649,26370,6955,0,1037,0,0,53457
+48021,"Edmonton--Wetaskiwin","AB","2015","Conservative",14660,44949,6645,0,1595,0,0,68344
+48022,"Foothills","AB","2015","Conservative",8149,46166,3919,0,1983,0,0,60986
+48023,"Fort McMurray--Cold Lake","AB","2015","Conservative",13403,28625,3663,0,743,0,0,47266
+48024,"Grande Prairie--Mackenzie","AB","2015","Conservative",7819,38895,4343,0,1673,0,0,53343
+48025,"Lakeland","AB","2015","Conservative",7500,39882,5513,0,1283,0,0,54779
+48026,"Lethbridge","AB","2015","Conservative",10532,32321,11674,0,1461,0,0,56943
+48027,"Medicine Hat--Cardston--Warner","AB","2015","Conservative",9085,34849,4897,0,1319,0,500,50650
+48028,"Peace River--Westlock","AB","2015","Conservative",6360,34342,7127,0,1247,0,0,49519
+48029,"Red Deer--Mountain View","AB","2015","Conservative",8356,46245,5233,0,1621,0,0,62212
+48030,"Red Deer--Lacombe","AB","2015","Conservative",9235,43599,7055,0,1773,0,0,61662
+48031,"St. Albert--Edmonton","AB","2015","Conservative",13343,26783,6609,0,821,0,11652,59208
+48032,"Sherwood Park--Fort Saskatchewan","AB","2015","Conservative",13615,42642,6540,0,1648,0,1563,66686
+48033,"Sturgeon River--Parkland","AB","2015","Conservative",9586,43220,6166,0,1875,0,0,61537
+48034,"Yellowhead","AB","2015","Conservative",7467,37950,4753,0,1538,0,0,52525
+59001,"Abbotsford","BC","2015","Conservative",15777,23229,6593,0,2416,0,0,48124
+59002,"Burnaby North--Seymour","BC","2015","Liberal",18938,14612,15537,0,2765,0,207,52480
+59003,"Burnaby South","BC","2015","NDP",15547,12441,16094,0,1306,0,0,45887
+59004,"Cariboo--Prince George","BC","2015","Conservative",16921,19688,13879,0,1860,0,657,53734
+59005,"Central Okanagan--Similkameen--Nicola","BC","2015","Conservative",23059,24517,11961,0,2436,0,0,61973
+59006,"Chilliwack--Hope","BC","2015","Conservative",17114,21445,9218,0,2386,0,0,50661
+59007,"Cloverdale--Langley City","BC","2015","Liberal",24617,18800,8463,0,2195,0,0,54075
+59008,"Coquitlam--Port Coquitlam","BC","2015","Liberal",19938,18083,15400,0,2076,0,0,56511
+59009,"Courtenay--Alberni","BC","2015","NDP",15212,19714,26582,0,8201,0,0,69849
+59010,"Cowichan--Malahat--Langford","BC","2015","NDP",14685,14091,22200,0,10462,0,0,61778
+59011,"Delta","BC","2015","Liberal",27355,18255,8311,0,1768,0,0,55689
+59012,"Fleetwood--Port Kells","BC","2015","Liberal",22871,14275,10463,0,1154,0,0,48763
+59013,"Kamloops--Thompson--Cariboo","BC","2015","Conservative",21215,24595,21466,0,2489,0,0,69765
+59014,"Kelowna--Lake Country","BC","2015","Liberal",29614,25502,9039,0,0,0,0,64155
+59015,"Kootenay--Columbia","BC","2015","NDP",12315,23247,23529,0,4115,0,0,63206
+59016,"Langley--Aldergrove","BC","2015","Conservative",21894,27333,7490,0,2644,0,0,59896
+59017,"Mission--Matsqui--Fraser Canyon","BC","2015","Liberal",16625,15587,9174,0,2293,0,914,44651
+59018,"Nanaimo--Ladysmith","BC","2015","NDP",16753,16637,23651,0,14074,0,0,71241
+59019,"New Westminster--Burnaby","BC","2015","NDP",15253,10512,22876,0,2487,0,0,52642
+59020,"North Okanagan--Shuswap","BC","2015","Conservative",20949,27490,17907,0,3608,0,0,69954
+59021,"North Vancouver","BC","2015","Liberal",36458,17301,5015,0,5350,0,94,64354
+59022,"Pitt Meadows--Maple Ridge","BC","2015","Liberal",17673,16373,15450,0,2202,0,452,52150
+59023,"Port Moody--Coquitlam","BC","2015","NDP",16888,16112,19706,0,1878,0,0,54667
+59024,"Prince George--Peace River--Northern Rockies","BC","2015","Conservative",12913,27237,8014,0,2672,0,0,51859
+59025,"Richmond Centre","BC","2015","Conservative",16486,17622,4602,0,1152,0,0,39862
+59026,"Esquimalt--Saanich--Sooke","BC","2015","NDP",18622,11912,23836,0,13575,0,0,68081
+59027,"Saanich--Gulf Islands","BC","2015","Green",11380,13260,6181,0,37070,0,0,68140
+59028,"Skeena--Bulkley Valley","BC","2015","NDP",8257,10936,22531,0,1605,0,0,44109
+59029,"South Okanagan--West Kootenay","BC","2015","NDP",18732,19871,24823,0,2792,0,376,66594
+59030,"South Surrey--White Rock","BC","2015","Conservative",23495,24934,5895,0,1938,0,0,56631
+59031,"Steveston--Richmond East","BC","2015","Liberal",19486,16630,5248,0,1587,0,0,43225
+59032,"Surrey Centre","BC","2015","Liberal",19471,8556,12992,0,1493,0,0,43198
+59033,"Surrey--Newton","BC","2015","Liberal",24869,6978,11602,0,975,0,0,44424
+59034,"Vancouver Centre","BC","2015","Liberal",32554,9818,11618,0,3370,0,0,58048
+59035,"Vancouver East","BC","2015","NDP",16532,6322,29316,0,5395,0,216,58708
+59036,"Vancouver Granville","BC","2015","Liberal",23643,14028,14462,0,1691,0,0,53824
+59037,"North Island--Powell River","BC","2015","NDP",15416,15840,24340,0,4940,0,0,60536
+59038,"Vancouver Kingsway","BC","2015","NDP",12625,9538,20763,0,1476,0,0,45396
+59039,"Vancouver Quadra","BC","2015","Liberal",31102,13683,5748,0,2229,0,59,52972
+59040,"Vancouver South","BC","2015","Liberal",21773,15115,6230,0,1149,0,0,44611
+59041,"Victoria","BC","2015","NDP",8489,8480,30397,0,23666,0,124,71895
+59042,"West Vancouver--Sunshine Coast--Sea to Sky Country","BC","2015","Liberal",36300,17411,6554,0,5907,0,0,66458
+60001,"Yukon","YU","2015","Liberal",10887,4928,3943,0,533,0,0,20291
+61001,"Northwest Territories","NT","2015","Liberal",9172,3481,5783,0,537,0,0,18973
+62001,"Nunavut","NU","2015","Liberal",5619,2956,3171,0,182,0,0,11928
+10001,"Avalon","NL","2019","Liberal",19122,12855,7142,0,2215,0,0,41334
+10002,"Bonavista--Burin--Trinity","NL","2019","Liberal",14707,12697,3855,0,920,0,0,32179
+10003,"Coast of Bays--Central--Notre Dame","NL","2019","Liberal",16514,12081,4224,0,1363,0,0,34182
+10004,"Labrador","NL","2019","Liberal",4851,3548,2796,0,224,0,0,11419
+10005,"Long Range Mountains","NL","2019","Liberal",18199,10873,7609,0,1334,0,0,38426
+10006,"St. John's East","NL","2019","NDP",14962,8141,21148,0,821,0,0,45072
+10007,"St. John's South--Mount Pearl","NL","2019","Liberal",20793,7767,10890,0,740,335,0,40666
+11001,"Cardigan","PEI","2019","Liberal",10939,6439,1481,0,3068,0,0,22167
+11002,"Charlottetown","PEI","2019","Liberal",8812,4040,2238,0,4648,0,0,19910
+11003,"Egmont","PEI","2019","Liberal",8016,6934,1230,0,3998,0,0,20178
+11004,"Malpeque","PEI","2019","Liberal",9533,5908,1495,0,6103,0,0,23039
+12001,"Cape Breton--Canso","NS","2019","Liberal",16694,14821,6354,0,3321,925,685,42940
+12002,"Central Nova","NS","2019","Liberal",20718,13201,5806,0,3478,938,149,44470
+12003,"Cumberland--Colchester","NS","2019","Liberal",16672,16219,5451,0,6015,608,232,45450
+12004,"Dartmouth--Cole Harbour","NS","2019","Liberal",24259,8638,14435,0,5280,887,0,53499
+12005,"Halifax","NS","2019","Liberal",23681,6456,16747,0,8013,633,0,55752
+12006,"Halifax West","NS","2019","Liberal",26885,10488,10429,0,6555,0,0,54357
+12007,"Kings--Hants","NS","2019","Liberal",20806,11905,8254,0,6029,786,0,48036
+12008,"Sackville--Preston--Chezzetcook","NS","2019","Liberal",19925,11211,11860,0,5725,816,0,49537
+12009,"South Shore--St. Margarets","NS","2019","Liberal",21886,14744,8361,0,6070,667,541,52518
+12010,"Sydney--Victoria","NS","2019","Liberal",12536,11227,8146,0,2249,0,6159,40565
+12011,"West Nova","NS","2019","Conservative",17025,18390,5010,0,5939,0,0,46798
+13001,"Acadie--Bathurst","NB","2019","Liberal",26547,10352,6967,0,4277,0,0,48143
+13002,"Beauséjour","NB","2019","Liberal",24948,9438,3940,0,14305,1054,0,53685
+13003,"Fredericton","NB","2019","Green",13544,15011,2946,0,16640,776,0,49409
+13004,"Fundy Royal","NB","2019","Conservative",12433,22389,4804,0,7275,1249,295,48646
+13005,"Madawaska--Restigouche","NB","2019","Liberal",17331,9801,2212,0,5125,0,0,34469
+13006,"Miramichi--Grand Lake","NB","2019","Liberal",12722,12352,2875,0,3914,1179,1556,34598
+13007,"Moncton--Riverview--Dieppe","NB","2019","Liberal",22261,12200,6164,0,9287,1258,0,51828
+13008,"New Brunswick Southwest","NB","2019","Conservative",10110,19451,3251,0,5352,1214,0,39578
+13009,"Saint John--Rothesay","NB","2019","Liberal",15443,14006,5046,0,4165,1260,1333,41253
+13010,"Tobique--Mactaquac","NB","2019","Conservative",9631,19229,3007,0,5398,936,0,38201
+24001,"Abitibi--Baie-James--Nunavik--Eeyou","QB","2019","Bloc",8963,5240,4104,11432,1151,379,0,31656
+24002,"Abitibi--Témiscamingue","QB","2019","Bloc",12417,7537,5093,22803,1818,487,0,50155
+24003,"Ahuntsic-Cartierville","QB","2019","Liberal",28904,4013,6284,11974,3352,584,0,55111
+24004,"Alfred-Pellan","QB","2019","Liberal",26015,5917,4109,15549,1958,471,113,54309
+24005,"Argenteuil--La Petite-Nation","QB","2019","Liberal",18896,6044,3758,18167,2411,721,0,49997
+24006,"Avignon--La Mitis--Matane--Matapédia","QB","2019","Bloc",12188,2756,1435,18500,699,210,0,35968
+24007,"Beauce","QB","2019","Conservative",6971,22860,1847,8410,1461,16796,0,59429
+24008,"Beauport--Limoilou","QB","2019","Bloc",13020,13185,5599,15149,2127,1033,0,50191
+24009,"Bécancour--Nicolet--Saurel","QB","2019","Bloc",9332,8434,2732,29653,1697,489,0,52337
+24010,"Bellechasse--Les Etchemins--Lévis","QB","2019","Conservative",10734,32283,3256,14754,1925,1307,0,64447
+24011,"Beloeil--Chambly","QB","2019","Bloc",16059,4305,10086,35068,3255,512,0,69490
+24012,"Berthier--Maskinongé","QB","2019","Bloc",7796,5812,19698,21200,1008,428,154,56354
+24013,"Thérèse-De Blainville","QB","2019","Bloc",20988,5264,4431,24486,2710,366,89,58549
+24014,"Pierre-Boucher--Les Patriotes--Verchères","QB","2019","Bloc",17333,4910,4192,31009,2955,384,0,60783
+24015,"Bourassa","QB","2019","Liberal",23231,2899,3204,9043,1343,347,212,40351
+24016,"Brome--Missisquoi","QB","2019","Liberal",23450,7697,4887,21152,3302,456,0,61441
+24017,"Brossard--Saint-Lambert","QB","2019","Liberal",30537,6112,5410,11131,2935,527,0,56652
+24018,"Rimouski-Neigette--Témiscouata--Les Basques","QB","2019","Bloc",10095,4073,13050,17314,824,232,0,45767
+24019,"Charlesbourg--Haute-Saint-Charles","QB","2019","Conservative",12584,22484,4554,16053,2042,1379,0,59096
+24020,"Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix","QB","2019","Bloc",10608,15044,2841,18407,1355,1045,0,50635
+24021,"Châteauguay--Lacolle","QB","2019","Liberal",20118,5851,4005,19479,1929,563,0,52402
+24022,"Chicoutimi--Le Fjord","QB","2019","Conservative",7504,16155,2855,15321,1388,359,0,43881
+24023,"Compton--Stanstead","QB","2019","Liberal",21731,8446,5607,18571,3044,586,0,58237
+24024,"Dorval--Lachine--LaSalle","QB","2019","Liberal",27821,5543,6207,8974,2898,528,0,52574
+24025,"Drummond","QB","2019","Bloc",9552,9083,8716,24574,1856,525,0,54824
+24026,"Gaspésie--Les Îles-de-la-Madeleine","QB","2019","Liberal",16296,3022,1722,15659,1130,198,0,38380
+24027,"Gatineau","QB","2019","Liberal",29084,5745,6128,11926,2264,560,0,55783
+24028,"Hochelaga","QB","2019","Liberal",18008,2381,11451,17680,2618,377,0,53037
+24029,"Honoré-Mercier","QB","2019","Liberal",29543,4808,4130,9979,1373,459,0,50363
+24030,"Hull--Aylmer","QB","2019","Liberal",29732,4979,7467,8011,3869,638,0,54993
+24031,"Joliette","QB","2019","Bloc",12995,5176,2623,33590,2343,498,0,57699
+24032,"Jonquière","QB","2019","Bloc",7849,10338,12141,17577,1009,453,0,49367
+24033,"La Pointe-de-l'Île","QB","2019","Bloc",16898,3984,6057,26010,1910,388,0,55534
+24034,"La Prairie","QB","2019","Bloc",22504,5540,4744,25707,2565,393,0,61553
+24035,"Lac-Saint-Jean","QB","2019","Bloc",13633,12544,2753,23839,1010,448,0,54227
+24036,"Lac-Saint-Louis","QB","2019","Liberal",34622,9083,7263,3169,4176,805,0,59525
+24037,"LaSalle--Émard--Verdun","QB","2019","Liberal",22803,3690,8628,12619,3583,490,274,52391
+24038,"Laurentides--Labelle","QB","2019","Bloc",21655,4983,4122,30625,3157,418,174,65406
+24039,"Laurier--Sainte-Marie","QB","2019","Liberal",22306,1502,13453,12188,3225,320,42,53409
+24040,"Laval--Les Îles","QB","2019","Liberal",26031,8816,4803,11120,2306,885,0,53961
+24041,"Longueuil--Charles-LeMoyne","QB","2019","Liberal",20114,3811,5289,18794,2978,558,0,51544
+24042,"Lévis--Lotbinière","QB","2019","Conservative",10761,28297,4355,15921,1908,2247,0,63489
+24043,"Longueuil--Saint-Hubert","QB","2019","Bloc",20471,3779,5104,23061,6745,467,217,59844
+24044,"Louis-Hébert","QB","2019","Liberal",25140,10912,4884,17375,2466,1016,267,62060
+24045,"Louis-Saint-Laurent","QB","2019","Conservative",13571,29279,4339,14674,2155,1543,0,65561
+24046,"Manicouagan","QB","2019","Bloc",7793,7771,1482,21768,1293,283,0,40390
+24047,"Mégantic--L'Érable","QB","2019","Conservative",7388,23392,1936,12249,1258,812,217,47508
+24048,"Mirabel","QB","2019","Bloc",16162,5940,5219,33219,3517,641,0,65030
+24049,"Montarville","QB","2019","Bloc",21061,4138,4984,25366,2967,501,0,59228
+24050,"Montcalm","QB","2019","Bloc",11200,4942,3514,31791,2416,524,0,54806
+24051,"Montmagny--L'Islet--Kamouraska--Rivière-du-Loup","QB","2019","Conservative",8210,20989,3481,16261,1030,417,0,50388
+24052,"Mount Royal","QB","2019","Liberal",24590,10887,3609,1757,2389,362,0,43679
+24053,"Notre-Dame-de-Grâce--Westmount","QB","2019","Liberal",28323,5759,7753,2359,5397,565,98,50321
+24054,"Outremont","QB","2019","Liberal",19148,2707,8319,5741,5018,369,0,41457
+24055,"Papineau","QB","2019","Liberal",25957,2155,9748,8124,3741,322,76,50781
+24056,"Pierrefonds--Dollard","QB","2019","Liberal",31305,9797,5687,4469,2866,711,636,55471
+24057,"Pontiac","QB","2019","Liberal",30217,10416,6503,9929,3762,775,0,61847
+24058,"Portneuf--Jacques-Cartier","QB","2019","Conservative",12876,28110,3758,15707,2308,1915,0,64674
+24059,"Québec","QB","2019","Liberal",18047,8118,6220,17722,2949,674,0,54198
+24060,"Repentigny","QB","2019","Bloc",18111,4878,4470,34837,2289,524,0,65456
+24061,"Richmond--Arthabaska","QB","2019","Conservative",8868,26553,2864,16539,3133,681,0,58638
+24062,"Rivière-des-Mille-Îles","QB","2019","Bloc",21009,4684,5002,23629,3015,845,0,58184
+24063,"Rivière-du-Nord","QB","2019","Bloc",13402,7120,4194,31281,3345,407,127,60101
+24064,"Rosemont--La Petite-Patrie","QB","2019","NDP",14576,1405,25575,14306,3539,293,0,60206
+24065,"Marc-Aurèle-Fortin","QB","2019","Liberal",24865,5423,4741,18069,2111,465,143,55817
+24066,"Saint-Hyacinthe--Bagot","QB","2019","Bloc",11903,8062,10297,23143,2031,478,0,55914
+24067,"Saint-Jean","QB","2019","Bloc",18906,6612,4794,27750,3127,397,0,61875
+24068,"Saint-Laurent","QB","2019","Liberal",23527,7005,4065,2845,2150,484,0,40147
+24069,"Saint-Léonard--Saint-Michel","QB","2019","Liberal",27866,5423,2964,4351,1183,501,3061,45434
+24070,"Saint-Maurice--Champlain","QB","2019","Liberal",23104,9542,3071,19950,1809,938,0,58414
+24071,"Salaberry--Suroît","QB","2019","Bloc",18682,6116,5024,29975,1997,767,0,62903
+24072,"Shefford","QB","2019","Bloc",22605,7495,3705,23503,2814,497,0,60913
+24073,"Sherbrooke","QB","2019","Liberal",17490,6362,16881,15470,2716,0,471,59726
+24074,"Vaudreuil--Soulanges","QB","2019","Liberal",32254,7804,7368,16600,3405,711,0,68142
+24075,"Terrebonne","QB","2019","Bloc",17944,4640,4627,31029,2277,399,159,61335
+24076,"Trois-Rivières","QB","2019","Bloc",15774,15240,10090,17240,1492,565,137,60538
+24077,"Ville-Marie--Le Sud-Ouest--Île-des-Soeurs","QB","2019","Liberal",28087,4609,8274,6899,3718,520,117,52522
+24078,"Vimy","QB","2019","Liberal",26490,5951,4779,15455,2125,733,0,55533
+35001,"Ajax","ON","2019","Liberal",35198,15864,7033,0,2040,588,297,61020
+35002,"Algoma--Manitoulin--Kapuskasing","ON","2019","NDP",9879,10625,16883,0,2192,887,0,40591
+35003,"Aurora--Oak Ridges--Richmond Hill","ON","2019","Conservative",22508,23568,3820,0,2154,530,0,53109
+35004,"Barrie--Innisfil","ON","2019","Conservative",15879,23765,8880,0,4716,1013,0,54253
+35005,"Barrie--Springwater--Oro-Medonte","ON","2019","Conservative",16805,20981,7972,0,7066,969,0,53793
+35006,"Bay of Quinte","ON","2019","Liberal",24099,22650,9851,0,3740,1207,0,61547
+35007,"Beaches--East York","ON","2019","Liberal",32647,8026,12196,0,3378,831,0,57078
+35008,"Brampton Centre","ON","2019","Liberal",18771,10696,7819,0,1685,681,0,39758
+35009,"Brampton East","ON","2019","Liberal",24050,12125,13368,0,666,244,211,50753
+35010,"Brampton North","ON","2019","Liberal",25970,13973,8533,0,1516,510,0,50502
+35011,"Brampton South","ON","2019","Liberal",24085,13828,7985,0,1926,354,0,48683
+35012,"Brampton West","ON","2019","Liberal",28743,12824,9855,0,1271,505,0,53683
+35013,"Brantford--Brant","ON","2019","Conservative",20454,26849,13131,0,4257,1320,261,66666
+35014,"Bruce--Grey--Owen Sound","ON","2019","Conservative",17485,26830,6797,0,5114,1614,0,58161
+35015,"Burlington","ON","2019","Liberal",34989,23930,7372,0,4750,944,0,71985
+35016,"Cambridge","ON","2019","Liberal",22903,17409,11177,0,4343,1872,0,57942
+35017,"Chatham-Kent--Leamington","ON","2019","Conservative",16899,25359,8229,0,2233,1061,0,54088
+35018,"Davenport","ON","2019","Liberal",23251,4921,21812,0,2397,496,165,53180
+35019,"Don Valley East","ON","2019","Liberal",25295,10115,4647,0,1675,562,0,42294
+35020,"Don Valley North","ON","2019","Liberal",23495,16506,4285,0,1803,482,0,46571
+35021,"Don Valley West","ON","2019","Liberal",29148,16304,3804,0,2257,444,0,52234
+35022,"Dufferin--Caledon","ON","2019","Conservative",22645,28852,7981,0,7303,1516,0,68616
+35023,"Durham","ON","2019","Conservative",23547,30752,13323,0,3950,1442,0,73014
+35024,"Eglinton--Lawrence","ON","2019","Liberal",29850,18549,4741,0,2278,586,0,56004
+35025,"Elgin--Middlesex--London","ON","2019","Conservative",14324,31026,11019,0,3562,956,0,61754
+35026,"Essex","ON","2019","Conservative",12987,28274,23603,0,2173,1251,0,68288
+35027,"Etobicoke Centre","ON","2019","Liberal",32800,21804,4881,0,2775,664,0,63219
+35028,"Etobicoke--Lakeshore","ON","2019","Liberal",36061,19952,8277,0,4141,921,0,69515
+35029,"Etobicoke North","ON","2019","Liberal",26388,9524,4654,0,1080,1196,0,42946
+35030,"Flamborough--Glanbrook","ON","2019","Conservative",22875,24527,10322,0,3833,982,0,62539
+35031,"Glengarry--Prescott--Russell","ON","2019","Liberal",31293,23660,6851,0,2113,1174,239,65791
+35032,"Guelph","ON","2019","Liberal",30497,14568,9297,0,19236,1087,219,75568
+35033,"Haldimand--Norfolk","ON","2019","Conservative",14704,28018,9192,0,4878,1234,0,59926
+35034,"Haliburton--Kawartha Lakes--Brock","ON","2019","Conservative",17067,32257,9676,0,5515,1245,0,65760
+35035,"Hamilton Centre","ON","2019","NDP",12651,6341,20368,0,3370,833,377,44122
+35036,"Hamilton East--Stoney Creek","ON","2019","Liberal",20112,13130,14930,0,2902,1072,0,52146
+35037,"Hamilton Mountain","ON","2019","NDP",16057,13443,19135,0,3115,760,0,52949
+35038,"Hamilton West--Ancaster--Dundas","ON","2019","Liberal",30214,17340,11527,0,4770,894,0,64901
+35039,"Hastings--Lennox and Addington","ON","2019","Conservative",19721,21968,6984,0,3114,1307,0,53094
+35040,"Huron--Bruce","ON","2019","Conservative",20167,29512,7421,0,2665,1102,0,60867
+35041,"Kanata--Carleton","ON","2019","Liberal",28746,24361,8317,0,4387,961,0,66772
+35042,"Kenora","ON","2019","Conservative",8335,9445,7923,0,1526,388,170,27787
+35043,"King--Vaughan","ON","2019","Liberal",28725,27584,4297,0,2511,731,0,63848
+35044,"Kingston and the Islands","ON","2019","Liberal",31205,13304,15856,0,6059,1769,0,68193
+35045,"Kitchener Centre","ON","2019","Liberal",20316,13191,6238,0,14394,1033,0,55374
+35046,"Kitchener--Conestoga","ON","2019","Liberal",20480,20115,5204,0,4946,790,0,51535
+35047,"Kitchener South--Hespeler","ON","2019","Liberal",20986,17480,6945,0,5671,1005,0,52233
+35048,"Lambton--Kent--Middlesex","ON","2019","Conservative",14814,28651,9355,0,3463,1804,0,58412
+35049,"Lanark--Frontenac--Kingston","ON","2019","Conservative",15441,30077,8835,0,7011,1117,0,62481
+35050,"Leeds--Grenville--Thousand Islands and Rideau Lakes","ON","2019","Conservative",15482,28630,8201,0,5152,988,0,58453
+35051,"London--Fanshawe","ON","2019","NDP",14924,13770,22671,0,2781,1132,297,55575
+35052,"London North Centre","ON","2019","Liberal",27247,15066,14887,0,4872,1532,0,63741
+35053,"London West","ON","2019","Liberal",30622,19910,15220,0,3827,1171,0,71273
+35054,"Markham--Stouffville","ON","2019","Liberal",25055,19703,4132,0,1621,537,13340,64388
+35055,"Markham--Thornhill","ON","2019","Liberal",23899,15319,3233,0,1247,357,276,44331
+35056,"Markham--Unionville","ON","2019","Conservative",20484,26133,3524,0,2394,861,0,53396
+35057,"Milton","ON","2019","Liberal",30882,21564,3851,0,2769,613,0,59679
+35058,"Mississauga Centre","ON","2019","Liberal",29974,15874,5173,0,1646,837,252,53756
+35059,"Mississauga East--Cooksville","ON","2019","Liberal",27923,17664,4643,0,1578,637,0,52623
+35060,"Mississauga--Erin Mills","ON","2019","Liberal",31181,19050,5236,0,2147,648,0,58262
+35061,"Mississauga--Lakeshore","ON","2019","Liberal",29526,22740,5103,0,2814,717,0,60999
+35062,"Mississauga--Malton","ON","2019","Liberal",27890,12528,6103,0,1251,369,0,48537
+35063,"Mississauga--Streetsville","ON","2019","Liberal",29618,19474,6036,0,2688,706,0,58765
+35064,"Nepean","ON","2019","Liberal",31933,23320,9104,0,4379,687,0,69583
+35065,"Newmarket--Aurora","ON","2019","Liberal",26488,23252,6576,0,3551,588,0,61460
+35066,"Niagara Centre","ON","2019","Liberal",20292,17987,15469,0,3054,776,0,57963
+35067,"Niagara Falls","ON","2019","Conservative",22690,24751,12566,0,3404,968,4997,69734
+35068,"Niagara West","ON","2019","Conservative",17429,24447,6540,0,3620,869,0,53924
+35069,"Nickel Belt","ON","2019","Liberal",19046,10343,15656,0,2644,1159,0,48848
+35070,"Nipissing--Timiskaming","ON","2019","Liberal",19352,12984,9784,0,3111,2496,0,47727
+35071,"Northumberland--Peterborough South","ON","2019","Conservative",24977,27385,9615,0,5524,1460,0,68961
+35072,"Oakville","ON","2019","Liberal",30265,25561,4928,0,3704,798,0,65401
+35073,"Oakville North--Burlington","ON","2019","Liberal",33597,26484,5866,0,2925,751,0,69623
+35074,"Oshawa","ON","2019","Conservative",15750,24087,17668,0,3151,1215,0,61983
+35075,"Ottawa Centre","ON","2019","Liberal",38391,9920,22916,0,5837,720,242,78902
+35076,"Orléans","ON","2019","Liberal",44183,22984,9428,0,3829,986,0,81410
+35077,"Ottawa South","ON","2019","Liberal",34205,16025,10457,0,3645,717,228,65376
+35078,"Ottawa--Vanier","ON","2019","Liberal",32679,11118,13516,0,4796,1064,305,63881
+35079,"Ottawa West--Nepean","ON","2019","Liberal",28378,16876,11646,0,3894,839,0,62206
+35080,"Oxford","ON","2019","Conservative",11745,29310,12306,0,4770,1774,0,60891
+35081,"Parkdale--High Park","ON","2019","Liberal",28852,8015,19180,0,3916,643,0,60887
+35082,"Parry Sound--Muskoka","ON","2019","Conservative",16615,22845,6417,0,8409,0,377,54663
+35083,"Perth--Wellington","ON","2019","Conservative",15002,25622,8094,0,4949,894,0,55294
+35084,"Peterborough--Kawartha","ON","2019","Liberal",27400,24357,11872,0,4930,890,180,69801
+35085,"Pickering--Uxbridge","ON","2019","Liberal",32387,18462,7582,0,3799,1265,0,63495
+35086,"Renfrew--Nipissing--Pembroke","ON","2019","Conservative",11532,31080,8786,0,3230,1463,2242,58957
+35087,"Richmond Hill","ON","2019","Liberal",21804,21592,4425,0,1695,507,0,50149
+35088,"Carleton","ON","2019","Conservative",26518,32147,6479,0,3423,792,0,69359
+35089,"St. Catharines","ON","2019","Liberal",24183,18978,12431,0,3695,826,0,60113
+35090,"Toronto--St. Paul's","ON","2019","Liberal",32494,12933,9442,0,4042,923,0,59834
+35091,"Sarnia--Lambton","ON","2019","Conservative",12041,28623,12644,0,2490,1587,0,57916
+35092,"Sault Ste. Marie","ON","2019","Liberal",16284,13407,9459,0,1809,741,0,41700
+35093,"Scarborough--Agincourt","ON","2019","Liberal",21115,15492,3636,0,1050,521,0,41814
+35094,"Scarborough Centre","ON","2019","Liberal",25695,10387,5452,0,1336,1162,2524,46556
+35095,"Scarborough--Guildwood","ON","2019","Liberal",26123,9553,4806,0,1220,648,252,42742
+35096,"Scarborough North","ON","2019","Liberal",20911,11838,5039,0,796,370,0,39037
+35097,"Scarborough--Rouge Park","ON","2019","Liberal",31360,10115,5801,0,2330,467,0,50426
+35098,"Scarborough Southwest","ON","2019","Liberal",28965,10502,7865,0,2477,590,0,50635
+35099,"Simcoe--Grey","ON","2019","Conservative",23925,32812,8462,0,8589,1416,0,75509
+35100,"Simcoe North","ON","2019","Conservative",19310,27241,8850,0,5882,1154,0,62778
+35101,"Spadina--Fort York","ON","2019","Liberal",33822,10680,12188,0,3174,672,114,60650
+35102,"Stormont--Dundas--South Glengarry","ON","2019","Conservative",13767,28976,7674,0,2126,1168,0,53711
+35103,"Sudbury","ON","2019","Liberal",19643,9864,13885,0,3225,873,205,47977
+35104,"Thornhill","ON","2019","Conservative",18946,29187,3469,0,1600,0,0,53496
+35105,"Thunder Bay--Rainy River","ON","2019","Liberal",14498,12039,11944,0,1829,741,0,41051
+35106,"Thunder Bay--Superior North","ON","2019","Liberal",18502,11036,9126,0,3639,734,0,43177
+35107,"Timmins--James Bay","ON","2019","NDP",9443,9907,14885,0,1257,1248,0,36740
+35108,"Toronto Centre","ON","2019","Liberal",31271,6613,12142,0,3852,0,126,54512
+35109,"Toronto--Danforth","ON","2019","Liberal",27681,6091,19283,0,3761,621,210,58059
+35110,"University--Rosedale","ON","2019","Liberal",29652,9342,12573,0,4861,510,0,57391
+35111,"Vaughan--Woodbridge","ON","2019","Liberal",25810,18289,3910,0,1302,852,165,50328
+35112,"Waterloo","ON","2019","Liberal",31085,15615,9710,0,6184,1112,0,63706
+35113,"Wellington--Halton Hills","ON","2019","Conservative",19777,33044,6499,0,8851,1509,0,69680
+35114,"Whitby","ON","2019","Liberal",30182,24564,9760,0,3735,860,0,69101
+35115,"Willowdale","ON","2019","Liberal",22282,16452,4231,0,1671,563,271,45470
+35116,"Windsor--Tecumseh","ON","2019","Liberal",19046,15851,18417,0,2177,1279,0,56957
+35117,"Windsor West","ON","2019","NDP",18878,9925,20800,0,1325,958,0,51962
+35118,"York Centre","ON","2019","Liberal",21680,15852,4251,0,1403,0,0,43186
+35119,"York--Simcoe","ON","2019","Conservative",14407,24918,7620,0,4650,875,0,53781
+35120,"York South--Weston","ON","2019","Liberal",25976,8415,7754,0,1633,685,0,44463
+35121,"Humber River--Black Creek","ON","2019","Liberal",23187,6164,7198,0,804,402,0,37958
+46001,"Brandon--Souris","MB","2019","Conservative",4972,26148,5805,0,2984,691,326,41206
+46002,"Charleswood--St. James--Assiniboia--Headingley","MB","2019","Conservative",16398,18815,6556,0,2178,1975,140,46228
+46003,"Churchill--Keewatinook Aski","MB","2019","NDP",5616,4714,11919,0,1144,294,0,23687
+46004,"Dauphin--Swan River--Neepawa","MB","2019","Conservative",5344,26103,5724,0,2214,711,0,40566
+46005,"Elmwood--Transcona","MB","2019","NDP",5346,16240,19786,0,1480,512,0,43364
+46006,"Kildonan--St. Paul","MB","2019","Conservative",12356,19856,9387,0,1777,510,108,44298
+46007,"Portage--Lisgar","MB","2019","Conservative",4779,31600,3872,0,2356,1169,0,44636
+46008,"Provencher","MB","2019","Conservative",6347,31821,6187,0,2884,1066,0,48305
+46009,"Saint Boniface--Saint Vital","MB","2019","Liberal",20300,15436,8037,0,2671,591,303,47338
+46010,"Selkirk--Interlake--Eastman","MB","2019","Conservative",6003,31109,8873,0,2934,683,0,49602
+46011,"Winnipeg Centre","MB","2019","NDP",10704,5561,13073,0,1661,474,0,31724
+46012,"Winnipeg North","MB","2019","Liberal",15581,6820,8469,0,906,324,231,32735
+46013,"Winnipeg South","MB","2019","Liberal",20182,18537,6678,0,2073,419,0,47889
+46014,"Winnipeg South Centre","MB","2019","Liberal",22799,15051,8965,0,3173,569,0,50661
+47001,"Battlefords--Lloydminster","SK","2019","Conservative",2426,28030,4098,0,605,662,0,35821
+47002,"Cypress Hills--Grasslands","SK","2019","Conservative",1595,31140,3666,0,719,1075,220,38415
+47003,"Desnethé--Missinippi--Churchill River","SK","2019","Conservative",7225,11531,7741,0,543,217,0,27257
+47004,"Carlton Trail--Eagle Creek","SK","2019","Conservative",2085,35313,5535,0,873,799,344,44949
+47005,"Moose Jaw--Lake Centre--Lanigan","SK","2019","Conservative",2517,31993,7660,0,1201,1613,0,44984
+47006,"Prince Albert","SK","2019","Conservative",4107,26891,6925,0,839,778,0,39710
+47007,"Regina--Lewvan","SK","2019","Conservative",6826,27088,14767,0,2099,573,201,51614
+47008,"Regina--Qu'Appelle","SK","2019","Conservative",4543,24463,7685,0,1282,513,78,38755
+47009,"Regina--Wascana","SK","2019","Conservative",15242,22418,5801,0,1316,450,128,45355
+47010,"Saskatoon--Grasswood","SK","2019","Conservative",8419,26336,12672,0,1320,692,0,49439
+47011,"Saskatoon--University","SK","2019","Conservative",6146,24514,13994,0,1401,667,0,47027
+47012,"Saskatoon West","SK","2019","Conservative",2863,18597,15708,0,1042,775,0,38985
+47013,"Souris--Moose Mountain","SK","2019","Conservative",1718,35067,3214,0,681,702,0,41550
+47014,"Yorkton--Melville","SK","2019","Conservative",2488,29523,4747,0,1070,941,0,38769
+48001,"Banff--Airdrie","AB","2019","Conservative",8425,55504,8185,0,3315,2651,0,78080
+48002,"Battle River--Crowfoot","AB","2019","Conservative",2557,53309,3185,0,1689,1620,0,62360
+48003,"Bow River","AB","2019","Conservative",3173,46279,3086,0,826,1321,0,55138
+48004,"Calgary Centre","AB","2019","Conservative",17771,37306,6516,0,2853,907,138,65864
+48005,"Calgary Confederation","AB","2019","Conservative",14908,36312,7312,0,5700,1136,0,65892
+48006,"Calgary Forest Lawn","AB","2019","Conservative",8690,23805,4227,0,1318,1089,388,39964
+48007,"Calgary Heritage","AB","2019","Conservative",8057,40817,5278,0,2027,1123,228,57715
+48008,"Calgary Midnapore","AB","2019","Conservative",7507,50559,6445,0,1992,1585,0,68088
+48009,"Calgary Nose Hill","AB","2019","Conservative",8703,38588,5304,0,1554,1089,0,55309
+48010,"Calgary Rocky Ridge","AB","2019","Conservative",13012,48253,6051,0,2011,1053,270,70650
+48011,"Calgary Shepard","AB","2019","Conservative",8644,58614,6828,0,2345,1709,0,78140
+48012,"Calgary Signal Hill","AB","2019","Conservative",9722,44421,5355,0,2139,1130,0,63478
+48013,"Calgary Skyview","AB","2019","Conservative",14327,26533,7540,0,800,603,0,50552
+48014,"Edmonton Centre","AB","2019","Conservative",17524,22006,10959,0,1394,805,119,53092
+48015,"Edmonton Griesbach","AB","2019","Conservative",8100,24120,11800,0,1189,1074,216,46963
+48016,"Edmonton Manning","AB","2019","Conservative",11692,30425,9555,0,1255,1109,0,54380
+48017,"Edmonton Mill Woods","AB","2019","Conservative",17879,26736,6422,0,968,953,0,53177
+48018,"Edmonton Riverbend","AB","2019","Conservative",14038,35126,9332,0,1797,855,0,61148
+48019,"Edmonton Strathcona","AB","2019","NDP",6592,21035,26823,0,1152,941,0,56745
+48020,"Edmonton West","AB","2019","Conservative",11812,35719,8537,0,1441,1126,0,58635
+48021,"Edmonton--Wetaskiwin","AB","2019","Conservative",10802,63346,9820,0,1660,1616,0,87455
+48022,"Foothills","AB","2019","Conservative",3856,53872,3767,0,2398,1698,0,65591
+48023,"Fort McMurray--Cold Lake","AB","2019","Conservative",4848,40706,2883,0,865,1674,0,50976
+48024,"Grande Prairie--Mackenzie","AB","2019","Conservative",2910,51198,4245,0,1134,1492,0,60979
+48025,"Lakeland","AB","2019","Conservative",2565,48314,3728,0,1105,1468,0,57578
+48026,"Lethbridge","AB","2019","Conservative",8443,40713,9110,0,1939,1007,0,61882
+48027,"Medicine Hat--Cardston--Warner","AB","2019","Conservative",3528,42045,4639,0,1203,1350,337,53102
+48028,"Peace River--Westlock","AB","2019","Conservative",3148,41659,3886,0,1377,1579,0,51649
+48029,"Red Deer--Mountain View","AB","2019","Conservative",3795,54765,4946,0,2026,2637,0,68169
+48030,"Red Deer--Lacombe","AB","2019","Conservative",3540,53843,6012,0,1596,2453,0,67444
+48031,"St. Albert--Edmonton","AB","2019","Conservative",12477,39506,9895,0,1594,1268,0,65091
+48032,"Sherwood Park--Fort Saskatchewan","AB","2019","Conservative",7357,53600,8867,0,1592,1334,0,73050
+48033,"Sturgeon River--Parkland","AB","2019","Conservative",4696,53235,6940,0,1745,1625,0,68657
+48034,"Yellowhead","AB","2019","Conservative",2912,45964,3898,0,1272,1592,0,55968
+59001,"Abbotsford","BC","2019","Conservative",10560,25162,8257,0,3702,985,0,48936
+59002,"Burnaby North--Seymour","BC","2019","Liberal",17770,9734,16185,0,4801,1079,271,50059
+59003,"Burnaby South","BC","2019","NDP",10706,13914,16956,0,2477,645,0,45006
+59004,"Cariboo--Prince George","BC","2019","Conservative",10932,28848,8440,0,4998,1206,350,54774
+59005,"Central Okanagan--Similkameen--Nicola","BC","2019","Conservative",16252,31135,10904,0,5086,1345,0,64935
+59006,"Chilliwack--Hope","BC","2019","Conservative",10848,26672,8957,0,5243,1760,0,53755
+59007,"Cloverdale--Langley City","BC","2019","Conservative",19542,20936,10508,0,3572,930,0,55488
+59008,"Coquitlam--Port Coquitlam","BC","2019","Liberal",20178,19788,13383,0,4025,703,0,58175
+59009,"Courtenay--Alberni","BC","2019","NDP",8620,23936,29790,0,9762,0,0,72280
+59010,"Cowichan--Malahat--Langford","BC","2019","NDP",10301,16959,23519,0,13181,1066,0,65228
+59011,"Delta","BC","2019","Liberal",22257,17809,8792,0,3387,948,783,53976
+59012,"Fleetwood--Port Kells","BC","2019","Liberal",18401,16518,10533,0,2360,1093,0,48905
+59013,"Kamloops--Thompson--Cariboo","BC","2019","Conservative",19716,32415,9936,0,8789,1132,0,72453
+59014,"Kelowna--Lake Country","BC","2019","Conservative",22627,31497,8381,0,5171,1225,219,69120
+59015,"Kootenay--Columbia","BC","2019","Conservative",6151,30168,23149,0,6145,1378,0,67330
+59016,"Langley--Aldergrove","BC","2019","Conservative",16254,29823,10690,0,4881,1305,0,63452
+59017,"Mission--Matsqui--Fraser Canyon","BC","2019","Conservative",12299,19535,8089,0,5019,1055,0,46066
+59018,"Nanaimo--Ladysmith","BC","2019","Green",9735,18634,16985,0,24844,1049,306,71864
+59019,"New Westminster--Burnaby","BC","2019","NDP",12414,11439,23437,0,4378,862,83,52977
+59020,"North Okanagan--Shuswap","BC","2019","Conservative",16783,36154,11353,0,7828,2027,0,74145
+59021,"North Vancouver","BC","2019","Liberal",26979,16908,10340,0,7868,835,0,62930
+59022,"Pitt Meadows--Maple Ridge","BC","2019","Conservative",16125,19650,12958,0,4332,698,468,54231
+59023,"Port Moody--Coquitlam","BC","2019","Conservative",15695,16855,16702,0,3873,821,0,54003
+59024,"Prince George--Peace River--Northern Rockies","BC","2019","Conservative",6391,38473,5069,0,3448,1748,0,55129
+59025,"Richmond Centre","BC","2019","Conservative",11052,19037,5617,0,2376,538,197,38817
+59026,"Esquimalt--Saanich--Sooke","BC","2019","NDP",12554,13409,23887,0,18506,1089,282,70125
+59027,"Saanich--Gulf Islands","BC","2019","Green",11326,13784,8657,0,33454,929,0,68150
+59028,"Skeena--Bulkley Valley","BC","2019","NDP",4793,13756,16944,0,3280,940,321,41384
+59029,"South Okanagan--West Kootenay","BC","2019","NDP",11705,24013,24809,0,5672,1638,359,68196
+59030,"South Surrey--White Rock","BC","2019","Conservative",21692,24310,6716,0,4458,852,0,58028
+59031,"Steveston--Richmond East","BC","2019","Conservative",14731,17478,6321,0,2972,0,449,41951
+59032,"Surrey Centre","BC","2019","Liberal",15453,10505,11353,0,2558,709,243,41319
+59033,"Surrey--Newton","BC","2019","Liberal",18960,8824,12306,0,1355,653,0,42098
+59034,"Vancouver Centre","BC","2019","Liberal",23599,10782,13280,0,7002,724,180,55946
+59035,"Vancouver East","BC","2019","NDP",10085,6724,29236,0,8062,679,0,55611
+59036,"Vancouver Granville","BC","2019","Liberal",14088,11605,6960,0,2683,431,17265,53032
+59037,"North Island--Powell River","BC","2019","NDP",8251,20502,23834,0,8891,1102,287,62915
+59038,"Vancouver Kingsway","BC","2019","NDP",10194,8804,21680,0,2675,427,0,44163
+59039,"Vancouver Quadra","BC","2019","Liberal",22093,14082,7681,0,6308,428,162,50754
+59040,"Vancouver South","BC","2019","Liberal",17808,14388,8015,0,2451,532,0,43194
+59041,"Victoria","BC","2019","NDP",15952,9038,23765,0,21383,920,111,71549
+59042,"West Vancouver--Sunshine Coast--Sea to Sky Country","BC","2019","Liberal",22673,17359,9027,0,14579,1010,159,64980
+60001,"Yukon","YU","2019","Liberal",7034,6881,4617,0,2201,284,0,21017
+61001,"Northwest Territories","NT","2019","Liberal",6467,4157,3640,0,1731,296,0,16291
+62001,"Nunavut","NU","2019","NDP",2918,2469,3861,0,206,0,0,9454
